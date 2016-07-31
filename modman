@@ -1,0 +1,5 @@
+# modman module description
+# see https://github.com/colinmollenhour/modman/ for more info
+
+#Emarsys
+src/Snowcap/Emarsys/                       lib/Snowcap/Emarsys/
